@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene2 A
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "\xC9 com muito orgulho que anuncio a abertura da Audi\xEAncia P\xFAblica referente
+      ao Edital da Concess\xE3o Administrativa!"
+    - "Discutiremos sobre a presta\xE7\xE3o de servi\xE7os para a moderniza\xE7\xE3o
+      da rede de ilumina\xE7\xE3o p\xFAblica do munic\xEDpio de Serrinha do Vale."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 95eaf3963a064e245892a75a074ada68, type: 2}
+    Lines:
+    - "O primeiro inscrito a participar \xE9 o representante da empresa T\xF4Fazendo
+      LTDA."
+    - Com a palavra, Afonso Fonseca.
+    SpeakerAction: 1
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: e8ffa7dafada72246996d6501f2deb35, type: 2}
+    Lines:
+    - "Gostaria de saber se j\xE1 existe um estudo sobre o objeto do edital."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Os estudos existem e foram realizados pelo Munic\xEDpio atrav\xE9s de Consultoria
+      contratada."
+    - "Eles estar\xE3o dispon\xEDveis aos interessados no Edital de licita\xE7\xE3o,
+      e seus anexos podem ser encontrados em nosso site."
+    SpeakerAction: 1
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 95eaf3963a064e245892a75a074ada68, type: 2}
+    Lines:
+    - "A pr\xF3xima pergunta \xE9 do representante da Construtora FazAqui LTDA."
+    SpeakerAction: 1
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 01e60f4ffab90904fb9496bd6093549e, type: 2}
+    Lines:
+    - "Caso seja necess\xE1ria a instala\xE7\xE3o de novos pontos de ilumina\xE7\xE3o
+      para atendimentos a pontos escuros, esses pontos s\xE3o de responsabilidade
+      da concession\xE1ria."
+    - "Na documenta\xE7\xE3o, n\xE3o conseguimos quantificar essa quantidade de pontos."
+    SpeakerAction: 1
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 731f33ce1b9f29942826520af327552a, type: 2}
+    Lines:
+    - "N\xF3s j\xE1 temos um estudo t\xE9cnico, feito pela consultoria Boa Luz."
+    - "Mostrarei para voc\xEAs."
+    SpeakerAction: 3
+    SpeakerExpression: 1

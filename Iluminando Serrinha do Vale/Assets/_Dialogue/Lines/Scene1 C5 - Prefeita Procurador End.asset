@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene1 C5 - Prefeita Procurador End
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Procurador, voc\xEA pode falar de novo sobre as modalidades de PPP?"
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - Tudo bem!
+    - 'Existem duas modalidades de PPP: a administrativa e a patrocinada.'
+    - "Na modalidade PPP concess\xE3o administrativa n\xE3o h\xE1 cobran\xE7a de
+      tarifa diretamente ao concession\xE1rio."
+    - "J\xE1 na modalidade PPP concess\xE3o patrocinada n\xE3o h\xE1 cobran\xE7a
+      de tarifa e nem concess\xE3o pecuni\xE1ria paga pelo ente p\xFAblico ao privado."
+    - "E n\xE3o podemos fecharPPPs caso:"
+    - "O valor dos contratos sejam inferiores a R$10 milh\xF5es de reais;"
+    - "Os servi\xE7os sejam prestados por um per\xEDodo inferior a 5 anos;"
+    - "Os servi\xE7os tenham como \xFAnico objetivo o fornecimento de m\xE3o de obra,
+      fornecimento e instala\xE7\xE3o de equipamentos ou a execu\xE7\xE3o de obra
+      p\xFAblica."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - Entendi. Obrigada!
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - Disponha, Prefeita!
+    SpeakerAction: 3
+    SpeakerExpression: 1

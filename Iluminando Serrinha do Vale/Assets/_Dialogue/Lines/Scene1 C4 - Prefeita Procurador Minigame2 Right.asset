@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene1 C4 - Prefeita Procurador Minigame2 Right
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Na modalidade PPP concess\xE3o administrativa n\xE3o h\xE1 cobran\xE7a de
+      tarifa diretamente ao usu\xE1rio."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - Exatamente!
+    - "E na concess\xE3o patrocinada h\xE1 cobran\xE7a de tarifa dos usu\xE1rios
+      junto com uma contrapresta\xE7\xE3o pecuni\xE1ria."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Por que precisamos da contrapresta\xE7\xE3o pecuni\xE1ria?"
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - "A tarifa dos usu\xE1rios sozinha n\xE3o cobre o valor da presta\xE7\xE3o de
+      servi\xE7o pelo concession\xE1rio. "
+    - "\xC9 o caso de alguns aeroportos, por exemplo."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - Entendi.
+    - "Parece que o tipo adequado para a ilumina\xE7\xE3o p\xFAblica \xE9 a Concess\xE3o
+      Administrativa, j\xE1 que n\xE3o h\xE1 cobran\xE7a de tarifa pelos concession\xE1rios,
+      certo?"
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - "Cert\xEDssima!"
+    - "A cobran\xE7a da tarifa j\xE1 \xE9 feita na conta de luz."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - Certo. E todas as prefeituras podem fechar PPPs, para qualquer tipo de projeto?
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - "N\xE3o exatamente. "
+    - "N\xE3o se aplicam \xE0s PPPs:"
+    - "contratos com valor inferior a R$10 milh\xF5es de reais;"
+    - "servi\xE7os prestados por um per\xEDodo inferior a 5 anos;"
+    - "servi\xE7os que tenham como \xFAnico objetivo o fornecimento de m\xE3o de
+      obra, fornecimento e instala\xE7\xE3o de equipamentos ou a execu\xE7\xE3o de
+      obra p\xFAblica."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - E quanto a garantias?
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - "Melhor falar com a T\xE2nia do financeiro."
+    SpeakerAction: 3
+    SpeakerExpression: 1

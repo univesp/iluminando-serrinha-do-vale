@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene1 D2 - Prefeita Gestora Engenheira Answer C
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - Precisamos fazer algum estudo para dar entrada na PPP?
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: c2c55bc49e66a164e9f1d47dc2c5fb6d, type: 2}
+    Lines:
+    - "Sim, \xE9 preciso fazer estudos t\xE9cnicos do projeto de ilumina\xE7\xE3o
+      p\xFAblica, do modelo financeiro concebido, da distribui\xE7\xE3o dos riscos
+      e da sustentabilidade dos projetos."
+    - "Uma falha de ajuste financeiro pode acarretar renegocia\xE7\xF5es indesejadas
+      ou a extin\xE7\xE3o prematura da parceria."
+    - "Al\xE9m de gerar preju\xEDzo aos usu\xE1rios."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "E estes estudos de viabilidade ser\xE3o feitos por n\xF3s?"
+    SpeakerAction: 1
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 731f33ce1b9f29942826520af327552a, type: 2}
+    Lines:
+    - Podemos fazer alguns internamente, como financeiro e o fiscal.
+    - "Mas podemos tamb\xE9m contratar uma consultoria, principalmente para o de
+      viabilidade t\xE9cnica."
+    - "A prefeitura pode pagar todos os estudos e depois ser ressarcida pela empresa
+      ganhadora da licita\xE7\xE3o por esses custos.  Interessante, n\xE3o?"
+    SpeakerAction: 0
+    SpeakerExpression: 1

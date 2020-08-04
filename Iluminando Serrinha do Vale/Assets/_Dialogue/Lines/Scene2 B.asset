@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene2 B
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: 95eaf3963a064e245892a75a074ada68, type: 2}
+    Lines:
+    - "Mais algu\xE9m possui alguma pergunta ou contribui\xE7\xE3o?"
+    SpeakerAction: 1
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 731f33ce1b9f29942826520af327552a, type: 2}
+    Lines:
+    - "Quero acrescentar que responderemos todos formalmente na Ata da Audi\xEAncia
+      P\xFAblica."
+    - "Encaminhem tamb\xE9m essas preocupa\xE7\xF5es na consulta p\xFAblica."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - Obrigada a todos!
+    - "Dou por encerrada esta Audi\xEAncia P\xFAblica."
+    SpeakerAction: 0
+    SpeakerExpression: 1

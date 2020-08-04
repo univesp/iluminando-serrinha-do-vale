@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: '[gerente_idle]e811333714388e04aa8f7f79f493ef12_1_1'
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: e811333714388e04aa8f7f79f493ef12, type: 2}
+  m_Scale: 1
+  m_CSF: 1
+  m_CurrentDataPath: Assets/_Art/SWF/engenheira_idle/
+  m_Data:
+  - m_SearchName: gerente_idle
+    m_SharedTexture: {fileID: 2800000, guid: eba0934008499d34e8f4943dee370633, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: 9aff46a71b6efb047b04b9561436b21f, type: 2}

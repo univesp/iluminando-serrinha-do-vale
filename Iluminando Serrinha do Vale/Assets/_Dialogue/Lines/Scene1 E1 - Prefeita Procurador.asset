@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene1 E1 - Prefeita Procurador
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Procurador, acho que j\xE1 consegui reunir todas as informa\xE7\xF5es que
+      preciso para dar entrada na PPP!"
+    - "Eu s\xF3 preciso saber qual o tipo de Edital precisamos fazer."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - "Para uma PPP o Edital ser\xE1 do tipo concorr\xEAncia-preg\xE3o."
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Hmm\u2026 Entendi. "
+    - "Se n\xE3o me engano, a concorr\xEAncia-preg\xE3o nas PPPs implica na invers\xE3o
+      das fases de\u2026"
+    SpeakerAction: 0
+    SpeakerExpression: 2

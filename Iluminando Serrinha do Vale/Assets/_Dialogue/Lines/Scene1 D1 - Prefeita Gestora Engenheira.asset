@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene1 D1 - Prefeita Gestora Engenheira
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "T\xE2nia, Engenheira, bom dia!"
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 731f33ce1b9f29942826520af327552a, type: 2}
+    Lines:
+    - Bom dia!
+    SpeakerAction: 1
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: c2c55bc49e66a164e9f1d47dc2c5fb6d, type: 2}
+    Lines:
+    - "Bom dia, Ros\xE2ngela! Precisa de ajuda?"
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Sim, eu estou estudando como funcionam as PPPs e tenho algumas d\xFAvidas."
+    SpeakerAction: 0
+    SpeakerExpression: 1

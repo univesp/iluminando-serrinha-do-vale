@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb04d28149ecca4a8ca7bb660b0afc0, type: 3}
+  m_Name: Scene1 E2 - Prefeita Procurador Minigame1 Erro B2
+  m_EditorClassIdentifier: 
+  Dialogue:
+  - Speaker: {fileID: 11400000, guid: b4ddae34c319a614e999d46f214c7de5, type: 2}
+    Lines:
+    - "Divulga\xE7\xE3o e homologa\xE7\xE3o?"
+    SpeakerAction: 0
+    SpeakerExpression: 1
+  - Speaker: {fileID: 11400000, guid: 5722194a53c18484c9e708812ac8b58d, type: 2}
+    Lines:
+    - "Na verdade a invers\xE3o acontece nas fases de habilita\xE7\xE3o e julgamento
+      das propostas comerciais."
+    - "E temos que fazer a divulga\xE7\xE3o do edital."
+    SpeakerAction: 0
+    SpeakerExpression: 1
